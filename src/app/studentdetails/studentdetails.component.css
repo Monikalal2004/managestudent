@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.content {
+    background-color: #f8f9fa;
+    min-height: 100vh;
+}
+
+.table {
+    background-color: white;
+}
+
+.avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 0%;
+}
